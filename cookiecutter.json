@@ -1,0 +1,13 @@
+{
+    "plugin_directory_name": "scancode-cookiecutter-hello",
+    "src_directory_name": "hello_scancode",
+    "file_name": "hello_scancode",
+    "class_name": "SayHello",
+    "entrypoint": "scancode_post_scan",
+    "greeting_recipient": "ScanCode User",
+    "commandline_option": "--hello",
+    "plugincode_filename": "post_scan",
+    "scan_plugin": "PostScanPlugin",
+    "pluggy_impl": "post_scan_impl",
+    "SCAN_GROUP": "POST_SCAN_GROUP"
+}
